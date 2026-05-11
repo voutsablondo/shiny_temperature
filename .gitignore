@@ -1,0 +1,14 @@
+# Données (régénérées par le pipeline)
+data/
+
+# Images intermédiaires (lourdes, régénérées par le pipeline)
+www/carte_temperature/
+www/images_station/
+
+# Fichiers R temporaires
+.Rhistory
+.RData
+.Rproj.user/
+
+# Déploiement (contient des infos sensibles)
+rsconnect/
