@@ -1,11 +1,4 @@
 <<<<<<< HEAD
-# Données (régénérées par le pipeline)
-data/
-
-# Images intermédiaires (lourdes, régénérées par le pipeline)
-www/carte_temperature/
-www/images_station/
-
 # Fichiers R temporaires
 .Rhistory
 .RData
