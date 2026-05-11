@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Données (régénérées par le pipeline)
 data/
 
@@ -12,3 +13,21 @@ www/images_station/
 
 # Déploiement (contient des infos sensibles)
 rsconnect/
+=======
+# Node rules:
+## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+## Dependency directory
+## Commenting this out is preferred by some people, see
+## https://docs.npmjs.com/misc/faq#should-i-check-my-node_modules-folder-into-git
+node_modules
+
+# Book build output
+_book
+
+# eBook build output
+*.epub
+*.mobi
+*.pdf
+>>>>>>> 6d10cdbc335224140519a20d2b536d900aa431a0
